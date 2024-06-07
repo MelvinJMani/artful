@@ -1,10 +1,10 @@
-🎨 A collection of Generative Arts created with React and p5.js.
+🎨 Art That’s Debugged to Perfection.
 
 To see the project in action : [go here](https://artful-react-firebase.web.app/)
 
 # About Project
 
-If you ask me the reason for creating this repo, let me say this, coding is fun so is art. Also I must admit,  I thought by creating this repo it will look cool on my resume :wink:. This project was created with react. So as you guessed project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my hobby project, where coding meets creativity. Built using React and PS5.js, this project is not only a testament to my love for coding and art but also a cool addition to my resume 😉. Enjoy exploring it as much as I enjoyed creating it!
 
 ## Available Scripts
 
