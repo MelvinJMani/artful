@@ -4,7 +4,7 @@ To see the project in action : [go here](https://artful-react-firebase.web.app/)
 
 # About Project
 
-Welcome to my hobby project, where coding meets creativity. Built using React and PS5.js, this project is not only a testament to my love for coding and art but also a cool addition to my resume 😉. Enjoy exploring it as much as I enjoyed creating it!
+Welcome to my hobby project, where coding meets creativity. Built using React and P5.js, this project is not only a testament to my love for coding and art but also a cool addition to my resume 😉. Enjoy exploring it as much as I enjoyed creating it!
 
 ## Available Scripts
 
